@@ -28,6 +28,11 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.use('/', routes);
 app.use('/users', users);
 
+app.get('/getfunction', function(req, res){
+  res.send('this is a get function');
+});
+
+
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
     var err = new Error('Not Found');
@@ -63,4 +68,5 @@ app.use(function(err, req, res, next) {
 module.exports = app;
 
 //TODO add http
-http.createServer(app).listen(3000); console.log("Express server listening on port 3000");
+http.createServer(app).listen(3000); 
+console.log("Express server listening on port 3000");
