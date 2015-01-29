@@ -1,7 +1,21 @@
-Install express generator
+Super-Mkdir
+====================
 
-npm install -g express-generator
+## Installation
 
-Install dependancies 
 
-npm install
+```
+npm install super-mkdir
+```
+
+## Usage example
+
+```
+TODO
+```
+```
+TODO
+```
+```
+TODO
+```
