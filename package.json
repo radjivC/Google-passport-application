@@ -1,10 +1,10 @@
 {
-  "name": "mkdir-extra",
+  "name": "super-mkdir",
   "version": "0.1.0",
   "description": "Npm module for extend your power with the system folders",
   "repository": {
     "type": "git",
-    "url": "https://github.com/radjivC/mkdir-extra.git"
+    "url": "https://github.com/radjivC/super-mkdir.git"
   },
   "keywords": [
     "mkdir",
@@ -14,7 +14,9 @@
     "rename",
     "listoffiles",
     "file",
-    "system"
+    "system",
+    "mkdir-extra",
+    "extra"
   ],
   "author": {
     "name": "radjivf",
@@ -23,7 +25,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/radjivC/mkdir-extra/issues"
+    "url": "https://github.com/radjivC/super-mkdir/issues"
   },
   "dependencies": {
     "fs": "^0.0.2",
@@ -34,8 +36,7 @@
     "LICENSE",
     "README.md"
   ],
-  "homepage": "https://github.com/radjivf/mkdir-extra",
-  "_id": "mkdir-extra@0.1.0",
-  "readme": "TODO",
+  "homepage": "https://github.com/radjivf/super-mkdir",
+  "_id": "super-mkdir@0.1.0",
   "readmeFilename": "README.md"
 }
