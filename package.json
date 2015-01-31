@@ -1,6 +1,6 @@
 {
   "name": "super-mkdir",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "description": "Npm module for extend your power with the system folders",
   "repository": {
     "type": "git",
@@ -9,7 +9,6 @@
   "keywords": [
     "mkdir",
     "super",
-    "node",
     "files",
     "rename",
     "listoffiles",
