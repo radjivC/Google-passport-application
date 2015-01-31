@@ -1,37 +1,41 @@
 {
-  "name": "super-mkdir",
+  "name": "mkdir-extra",
   "version": "0.1.0",
-  "description": "TODO",
+  "description": "Npm module for extend your power with the system folders",
   "repository": {
     "type": "git",
-    "url": "https://github.com/radjivC/super-mkdir.git"
+    "url": "https://github.com/radjivC/mkdir-extra.git"
   },
   "keywords": [
-    "geolocalisation",
-    "geo",
-    "google",
-    "maps"
+    "mkdir",
+    "super",
+    "node",
+    "files",
+    "rename",
+    "listoffiles",
+    "file",
+    "system"
   ],
   "author": {
     "name": "radjivf",
-    "email":"carrereradjiv@yahoo.fr",
-    "personal-website":"about.me/radjivf"
+    "email": "carrereradjiv@yahoo.fr",
+    "personal-website": "about.me/radjivf"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/radjivC/super-mkdir/issues"
+    "url": "https://github.com/radjivC/mkdir-extra/issues"
   },
   "dependencies": {
-
+    "fs": "^0.0.2",
+    "fs-extra": "^0.16.3"
   },
   "main": "./lib/mkdir.js",
   "files": [
     "LICENSE",
     "README.md"
   ],
-  "homepage": "https://github.com/radjivf/super-mkdir",
-  "_id": "super-mkdir@1.15.2",
+  "homepage": "https://github.com/radjivf/mkdir-extra",
+  "_id": "mkdir-extra@0.1.0",
   "readme": "TODO",
-  "readmeFilename": "README.md",
-  "_id": "super-mkdir@0.1.0"
+  "readmeFilename": "README.md"
 }
