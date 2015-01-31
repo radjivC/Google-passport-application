@@ -33,7 +33,7 @@ createFolder(nameFolder);
 
 * Delete some files
 ```
-mkdir.deleteFiles('/my/folder/',['file.png', 'file2.json', 'file3.png'] );
+mkdir.deleteFiles('/my/folder/',['file.png', 'file2.png', 'file3.png'] );
 ```
 * Delete all files in the folder
 ```
