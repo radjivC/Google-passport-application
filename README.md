@@ -12,7 +12,7 @@ npm install super-mkdir
 
 ## Usage example
 
-#### Minimun to use
+#### Minimum to use
 
 ```
 var mkdir = require('super-mkdir');
