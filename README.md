@@ -64,3 +64,4 @@ var word = 'word';
 mkdir.renameFiles('/my/folder/',['file.png', 'file2.json', 'file3.png'], [word+'newNamefile.png', word+'newNamefile2.json', word+'newNamefile3.png']);
 //rename the files as wordnewNamefile.png
 ```
+Enjoy it!
