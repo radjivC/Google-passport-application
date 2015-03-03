@@ -3,7 +3,7 @@ Super-Mkdir
 
 [![NPM](https://nodei.co/npm/super-mkdir.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/super-mkdir/) 
 
-[![Dependencies Status](https://david-dm.org/radjivC/node-geolocation.svg)]  (https://david-dm.org/radjivC/node-geolocation)
+[![Dependencies Status](https://david-dm.org/radjivC/super-mkdir.svg)]  (https://david-dm.org/radjivC/super-mkdir)
 
 
 
