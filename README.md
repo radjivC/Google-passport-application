@@ -3,7 +3,7 @@ Super-Mkdir
 
 [![NPM](https://nodei.co/npm/super-mkdir.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/super-mkdir/) 
 
-[![Build Status](https://travis-ci.org/radjivC/super-mkdir.svg?branch=master)](https://travis-ci.org/radjivC/super-mkdir)[![Dependencies Status](https://david-dm.org/radjivC/super-mkdir.svg)]  (https://david-dm.org/radjivC/super-mkdir)
+[![Build Status](https://travis-ci.org/radjivC/super-mkdir.svg?branch=master)](https://travis-ci.org/radjivC/super-mkdir)      [![Dependencies Status](https://david-dm.org/radjivC/super-mkdir.svg)]  (https://david-dm.org/radjivC/super-mkdir)
 
 
 
